@@ -9,4 +9,17 @@
 2. 
 
 - unordered list
+- 
+
+##Agenda
+
+*	Quiz
+* Topic Introduction
+* Connecting Ideas / Goals
+* LO's
+  * ...
+  * ...
+  * ...
+* Conclusion / Bringing it together
+* Lab/Exercise
 
