@@ -23,3 +23,8 @@
 * Conclusion / Bringing it together
 * Lab/Exercise
 
+```ruby
+def foo_bar
+  return {:message => 'foo_bar says hello'}
+end
+```
